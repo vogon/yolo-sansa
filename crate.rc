@@ -1,0 +1,6 @@
+#[warn(non_camel_case_types)]
+
+extern mod std;
+
+mod lua51;
+mod main;
